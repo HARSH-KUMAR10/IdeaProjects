@@ -1,0 +1,4 @@
+All the values stored in database will be key value pair
+Each key-value pair will be in form key:value
+Each record will have comma separated key-value pairs
+key1:value1,key2:value2,key3:value3
